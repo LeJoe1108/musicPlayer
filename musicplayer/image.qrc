@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/left.png</file>
+        <file>img/play.png</file>
+        <file>img/right.png</file>
+        <file>img/pause.png</file>
+        <file>img/add_voice.png</file>
+        <file>img/left1.png</file>
+        <file>img/leftquick.png</file>
+        <file>img/novoice.png</file>
+        <file>img/pause1.png</file>
+        <file>img/play1.png</file>
+        <file>img/player.png</file>
+        <file>img/right1.png</file>
+        <file>img/rightquick.png</file>
+        <file>img/sub_voice.png</file>
+        <file>img/voice.png</file>
+        <file>img/5.png</file>
+        <file>img/play2.png</file>
+    </qresource>
+</RCC>
